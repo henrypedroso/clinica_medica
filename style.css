@@ -75,11 +75,12 @@
     background-color: rgb(83, 218, 83);;
     text-align: center;
     font-weight: bolder;
+    padding: 12px 0;
 }
 
 .imagem-rodape{
     width: 80px;
-    padding: 20px 0;
+    
 }
 
 .estudante-título{
